@@ -1,0 +1,27 @@
+1- story
+-single player game
+-penalty kick game
+
+2- PCs and NPCs
+-penalty taker(PC)
+-goalkeeper(NPC)
+
+3- Goal
+-score the maximum goals without missing
+
+4- feedback
+-feedback can be given after the player missse or scores. 
+
+5- adaptivity(game state)
+-3 game states[0(start),1(easy),2(medium),3(hard)]
+
+6- rules
+-number of lives decrease as the level of difficulty increases.
+  -game state 1:3 lives
+  -game state 2:2 lives
+  -game state 3:1 life
+
+7- Balance
+- depends on user selection of the difficulty level.
+
+8- Chance vs Skill
