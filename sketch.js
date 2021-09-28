@@ -11,7 +11,7 @@ var gameOverImg,restartImg;
 
 function preload(){
 
-  runningVid = loadImage("penaltyTaker.jpg")
+  runningVid = loadImage("penaltyTaker.png")
   cloudImage = loadImage("cloud.png");
   
   goalkeeperImg = loadImage("goalkeeper.png");
